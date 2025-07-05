@@ -1,8 +1,8 @@
-# MCP Demo with LangChain and Groq
+MCP Demo with LangChain and Groq
 
 This project demonstrates how to use **LangChain MCP Adapters** with multiple tools (`mathserver.py`, `weather.py`) and integrate it with **Groq LLMs** to build a multi-agent intelligent system.
 
-## 🔧 Technologies Used -
+## 🔧 Technologies Used - 
 
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [LangGraph](https://github.com/langchain-ai/langgraph)
@@ -18,11 +18,10 @@ This project demonstrates how to use **LangChain MCP Adapters** with multiple to
 
 ```bash
 .
-├── client.py               
+├── client.py             
 ├── weather.py            
-├── mathserver.py        
-├── .env                   
-├── requirements.txt       
+├── mathserver.py          
+├── .env                  
+├── requirements.txt      
 ├── README.md            
 └── env/ or .venv/       
-```
